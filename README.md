@@ -51,7 +51,7 @@
 
 <div align="center">
   <a href="https://github.com/MoksFabio/">
-    <img src="https://github.com/MoksFabio/MoksFabio/blob/main/Rcb.png?raw=true" alt="Banner do Projeto RH Digital" width="200"/>
+    <img src="https://github.com/MoksFabio/MoksFabio/blob/main/RH Digital Logo.png?raw=true" alt="Banner do Projeto RH Digital" width="200"/>
   </a>
 </div>
 <br>
@@ -69,7 +69,7 @@
 
 <div align="center">
   <a href="https://github.com/MoksFabio/MoksFabio">
-    <img src="https://github.com/MoksFabio/MoksFabio/blob/main/RH Digital Logo.png?raw=true" alt="Banner do Sistema RCB" width="200"/>
+    <img src="https://github.com/MoksFabio/MoksFabio/blob/main/Rcb.png?raw=true" alt="Banner do Sistema RCB" width="200"/>
   </a>
 </div>
 <br>
