@@ -59,12 +59,3 @@ Motivado por tecnologia e boas práticas de programação, busco continuamente a
 > *Tecnologias:* {Tecnologias usadas}
 >
 > [🔗 Visite o Repositório do Projeto](https://github.com/MoksFabio/{link-para-o-proximo-projeto})
-
----
-
-### 📊 Estatísticas do GitHub
-
-<p>
-  <img align="left" alt="Estatísticas Gerais do GitHub" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=MoksFabio&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img align="left" alt="Linguagens Mais Usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoksFabio&theme=tokyonight&layout=compact&langs_count=10" />
-</p>
