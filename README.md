@@ -50,8 +50,8 @@
 ### 💻 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/MoksFabio/">
-    <img src="https://github.com/MoksFabio/MoksFabio/blob/main/RH Digital Logo.png?raw=true" alt="Banner do Projeto RH Digital" width="200"/>
+  <a href="https://github.com/MoksFabio/{link-para-o-projeto-rh-digital}">
+    <img src="https://github.com/MoksFabio/MoksFabio/blob/main/RH-Digital-Logo.png?raw=true" alt="Banner do Projeto RH Digital" width="200"/>
   </a>
 </div>
 <br>
