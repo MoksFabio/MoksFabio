@@ -79,7 +79,7 @@
 </div>
 <br>
 <h4 align="center">
-  <b>Sistema RCB</b>
+  <b>RCB - Remuneração, Custos e Bilhetagem</b>
 </h4>
 <p align="center">
   Minha principal conquista no Grande Recife Consórcio de Transporte Metropolitano, este sistema trouxe mais automação e eficiência para os processos internos do setor da GECO.
@@ -90,7 +90,3 @@
 <br>
 
 ---
-
-<div align="center">
-  <p>Feito com ❤️ por MoksFabio</p>
-</div>
