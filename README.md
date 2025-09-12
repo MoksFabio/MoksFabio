@@ -72,7 +72,7 @@
   </a>
 </div>
 <br>
-**Sistema RCB**
+Sistema RCB
 > Minha principal conquista no Grande Recife Consórcio de Transporte Metropolitano, este sistema trouxe mais automação e eficiência para os processos internos da Ouvidoria.
 >
-> *Tecnologias:* HTML, CSS, JavaScript, Python
+> Tecnologias: HTML, CSS, JavaScript, Python
