@@ -42,14 +42,6 @@
   <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="VS Code" title="VS Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img alt="SQL" title="SQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-</p>
-<br>
-
----
-
-### 🧠 Habilidades Adicionais
-
-<p align="center">
   <img alt="Gemini" title="Gemini" width="45px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Wordmark_200.width-1200.format-webp.webp"/>
 </p>
 <p align="center">
