@@ -45,11 +45,6 @@
 </p>
 <br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoksFabio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoksFabio&theme=tokyonight&layout=compact&langs_count=10"/>
-</div>
-
 ---
 
 ### 💻 Projetos em Destaque
