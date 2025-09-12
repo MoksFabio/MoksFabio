@@ -82,7 +82,7 @@
   <b>Sistema RCB</b>
 </h4>
 <p align="center">
-  Minha principal conquista no Grande Recife Consórcio de Transporte Metropolitano, este sistema trouxe mais automação e eficiência para os processos internos da Ouvidoria.
+  Minha principal conquista no Grande Recife Consórcio de Transporte Metropolitano, este sistema trouxe mais automação e eficiência para os processos internos do setor da GECO.
 </p>
 <p align="center">
   <b>Tecnologias:</b> HTML, CSS, JavaScript, Python
