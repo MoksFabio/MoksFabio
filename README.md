@@ -59,10 +59,10 @@
   <b>RH Digital - HRIS Connect</b>
 </h4>
 <p align="center">
-  Breve descrição do projeto e seu propósito.
+  <b>SIMPLIFICANDO PROCESSOS, POTENCIALIZANDO PESSOAS</b><br>Somos a Turma 170 ADM de Serviços Administrativos do SENAC, e este é o RH Digital - HRIS Connect: nosso Projeto Integrador focado em simplificar e humanizar os processos de Recursos Humanos através da tecnologia.
 </p>
 <p align="center">
-  <b>Tecnologias:</b> {Tecnologias usadas}
+  <b>Tecnologias:</b> HTML, CSS, JavaScript, Python
 </p>
 <br>
 <br>
