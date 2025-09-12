@@ -50,7 +50,7 @@
 ### 💻 Projetos em Destaque
 
 <div align="center">
-  <a href="rhdigitalhrisconnect.github.io/Quem-Somos/">
+  <a href="https://rhdigitalhrisconnect.github.io/Quem-Somos/">
     <img src="https://github.com/MoksFabio/MoksFabio/blob/main/RH-Digital-Logo.png?raw=true" alt="Banner do Projeto RH Digital" width="200"/>
   </a>
 </div>
