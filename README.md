@@ -56,7 +56,7 @@
 
 <div align="center">
   <a href="https://github.com/MoksFabio/{link-para-o-projeto-rh-digital}">
-    <img src="{link-do-banner-rh-digital}" alt="Banner do Projeto RH Digital" width="200"/>
+    <img src="https://github.com/MoksFabio/MoksFabio/blob/main/assets/banner_rh_digital.png?raw=true" alt="Banner do Projeto RH Digital" width="200"/>
   </a>
 </div>
 <br>
