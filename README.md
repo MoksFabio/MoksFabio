@@ -1,6 +1,7 @@
 <div align="center">
   <h1>Olá! Eu sou Fábio Silva!</h1>
   <h3>Analista e Desenvolvedor de Sistemas | FullStack</h3>
+  <link rel="icon" type="image/png" href="https://github.com/MoksFabio/MoksFabio/blob/main/Rcb.png?raw=true">
 </div>
 
 <p align="center">
