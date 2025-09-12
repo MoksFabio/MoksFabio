@@ -47,6 +47,18 @@
 
 ---
 
+### 🧠 Habilidades Adicionais
+
+<p align="center">
+  <img alt="Gemini" title="Gemini" width="45px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Wordmark_200.width-1200.format-webp.webp"/>
+</p>
+<p align="center">
+  Em minha jornada de aprendizado e desenvolvimento, utilizo a inteligência artificial, como o <b>Gemini do Google</b>, para aprimorar minhas habilidades de programação. Ela me auxilia na criação, correção e compreensão de códigos, permitindo-me otimizar tempo e encontrar as melhores soluções para os desafios de programação.
+</p>
+<br>
+
+---
+
 ### 💻 Projetos em Destaque
 
 <div align="center">
