@@ -1,10 +1,7 @@
 <div align="center">
-  <h1>Olá! Eu sou Fábio Silva</h1>
-  <h3>`Analista e Desenvolvedor de Sistemas | FullStack`</h3>
-</div>
-
-<div align="center">
   <img src="https://komarev.com/ghpvc/?username=MoksFabio&style=for-the-badge" alt="Visualizações de Perfil" />
+  <h1>Olá! Eu sou o Fábio Silva 👋</h1>
+  <h3>`Analista e Desenvolvedor de Sistemas | FullStack`</h3>
 </div>
 
 <p align="center">
@@ -58,8 +55,20 @@
 ### 💻 Projetos em Destaque
 
 <div align="center">
-  <a href="https://github.com/MoksFabio/{link-para-o-projeto-rcb}">
-    <img src="https://github.com/MoksFabio/MoksFabio/assets/156687440/328d0987-a065-4f7f-a0e2-df1130d22384" alt="Banner do Projeto RCB" width="400"/>
+  <a href="https://github.com/MoksFabio/{link-para-o-projeto-rh-digital}">
+    <img src="{link-do-banner-rh-digital}" alt="Banner do Projeto RH Digital" width="400"/>
+  </a>
+</div>
+<br>
+**RH Digital - HRIS Connect**
+> Breve descrição do projeto e seu propósito.
+>
+> *Tecnologias:* {Tecnologias usadas}
+<br>
+
+<div align="center">
+  <a href="https://github.com/MoksFabio/MoksFabio">
+    <img src="https://github.com/MoksFabio/MoksFabio/blob/main/Rcb.png?raw=true" alt="Banner do Sistema RCB" width="400"/>
   </a>
 </div>
 <br>
@@ -67,15 +76,3 @@
 > Minha principal conquista no Grande Recife Consórcio de Transporte Metropolitano, este sistema trouxe mais automação e eficiência para os processos internos da Ouvidoria.
 >
 > *Tecnologias:* HTML, CSS, JavaScript, Python
-<br>
-
-<div align="center">
-  <a href="https://github.com/MoksFabio/{link-para-o-proximo-projeto}">
-    <img src="https://github.com/MoksFabio/MoksFabio/assets/156687440/328d0987-a065-4f7f-a0e2-df1130d22384" alt="Banner do Próximo Projeto" width="400"/>
-  </a>
-</div>
-<br>
-**{Nome do Seu Próximo Projeto}**
-> Breve descrição do projeto e seu propósito.
->
-> *Tecnologias:* {Tecnologias usadas}
