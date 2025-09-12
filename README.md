@@ -16,6 +16,9 @@ Motivado por tecnologia e boas práticas de programação, busco continuamente a
   <a href="https://www.linkedin.com/in/moksfabio/">
     <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/moksfabio/">
+    <img alt="Instagram" title="Me siga no Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
   <a href="https://github.com/MoksFabio?tab=followers">
     <img alt="GitHub Followers" title="Me siga no GitHub" src="https://img.shields.io/github/followers/MoksFabio?label=Seguidores&style=for-the-badge&logo=github&color=236ad3&labelColor=1155ba" />
   </a>
