@@ -1,18 +1,26 @@
-# 🚀 Olá, eu sou o Fábio Silva!
+<div align="center">
+  <img src="https://github.com/MoksFabio/MoksFabio/assets/156687440/328d0987-a065-4f7f-a0e2-df1130d22384" width="100" />
+  <h1>Olá! Eu sou o Fábio Silva 👋</h1>
+  <h3>`Analista e Desenvolvedor de Sistemas | FullStack`</h3>
+</div>
 
-### `Analista e Desenvolvedor de Sistemas | FullStack`
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MoksFabio&style=for-the-badge" alt="Visualizações de Perfil" />
+</div>
 
-Bem-vindo(a) ao meu perfil! Me chamo **Fábio Silva**, tenho 20 anos e sou um profissional em **Análise e Desenvolvimento de Sistemas**, focado em aprimoramento de habilidades **FullStack**. Atualmente, estou cursando minha graduação na UniAmérica e aplicando meu conhecimento em desafios práticos.
-
-Minha jornada profissional no **Grande Recife Consórcio de Transporte Metropolitano**, onde atuei como Jovem Aprendiz e, agora, como Estagiário de TI, me proporcionou uma experiência valiosa. Tive a oportunidade de ir além da gestão de informações e desenvolver soluções que geram impacto real na empresa.
-
-Motivado por tecnologia e boas práticas de programação, busco continuamente aplicar meu conhecimento para gerar valor e crescer na área.
+<p align="center">
+  Bem-vindo(a) ao meu perfil! Me chamo <b>Fábio Silva</b>, tenho 20 anos e sou um profissional em Análise e Desenvolvimento de Sistemas, focado em aprimoramento de habilidades FullStack. Atualmente, estou cursando minha graduação na UniAmérica e aplicando meu conhecimento em desafios práticos.
+  <br>
+  Minha jornada profissional no <b>Grande Recife Consórcio de Transporte Metropolitano</b>, onde atuei como Jovem Aprendiz e, agora, como Estagiário de TI, me proporcionou uma experiência valiosa. Tive a oportunidade de ir além da gestão de informações e desenvolver soluções que geram impacto real na empresa.
+  <br>
+  Motivado por tecnologia e boas práticas de programação, busco continuamente aplicar meu conhecimento para gerar valor e crescer na área.
+</p>
 
 ---
 
 ### 🌐 Conecte-se Comigo
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/moksfabio/">
     <img alt="LinkedIn" title="Conecte-se comigo no LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -31,31 +39,44 @@ Motivado por tecnologia e boas práticas de programação, busco continuamente a
 
 ### 🛠️ Minhas Habilidades
 
-<p>
+<p align="center">
   <img alt="HTML5" title="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="Python" title="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="VS Code" title="VS Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="SQL" title="SQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
 </p>
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoksFabio&theme=tokyonight&layout=compact&langs_count=1" />
+</div>
 
 ---
 
 ### 💻 Projetos em Destaque
 
+<div align="center">
+  <a href="https://github.com/MoksFabio/{link-para-o-projeto-rcb}">
+    <img src="https://github.com/MoksFabio/MoksFabio/assets/156687440/328d0987-a065-4f7f-a0e2-df1130d22384" alt="Banner do Projeto RCB" width="400"/>
+  </a>
+</div>
+<br>
 **Sistema RCB**
-
 > Minha principal conquista no Grande Recife Consórcio de Transporte Metropolitano, este sistema trouxe mais automação e eficiência para os processos internos da Ouvidoria.
-> 
+>
 > *Tecnologias:* HTML, CSS, JavaScript, Python
-> 
-> [🔗 Visite o Repositório do Projeto](https://github.com/MoksFabio/{link-para-o-projeto-rcb})
+<br>
 
+<div align="center">
+  <a href="https://github.com/MoksFabio/{link-para-o-proximo-projeto}">
+    <img src="https://github.com/MoksFabio/MoksFabio/assets/156687440/328d0987-a065-4f7f-a0e2-df1130d22384" alt="Banner do Próximo Projeto" width="400"/>
+  </a>
+</div>
+<br>
 **{Nome do Seu Próximo Projeto}**
-
 > Breve descrição do projeto e seu propósito.
 >
 > *Tecnologias:* {Tecnologias usadas}
->
-> [🔗 Visite o Repositório do Projeto](https://github.com/MoksFabio/{link-para-o-proximo-projeto})
