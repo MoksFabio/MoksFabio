@@ -42,10 +42,6 @@
   <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="VS Code" title="VS Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img alt="SQL" title="SQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img alt="Gemini" title="Gemini" width="45px" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_Wordmark_200.width-1200.format-webp.webp"/>
-</p>
-<p align="center">
-  Em minha jornada de aprendizado e desenvolvimento, utilizo a inteligência artificial, como o <b>Gemini do Google</b>, para aprimorar minhas habilidades de programação. Ela me auxilia na criação, correção e compreensão de códigos, permitindo-me otimizar tempo e encontrar as melhores soluções para os desafios de programação.
 </p>
 <br>
 
@@ -83,6 +79,19 @@
 </p>
 <p align="center">
   <b>Tecnologias:</b> HTML, CSS, JavaScript, Python
+</p>
+<br>
+<br>
+
+<div align="center">
+  <img src="https://github.com/MoksFabio/MoksFabio/blob/main/gemini-changed-their-logo-v0-isn75ucqhdbf1-Photoroom.png?raw=true" alt="Logo do Gemini" width="200"/>
+</div>
+<br>
+<h4 align="center">
+  <b>Gemini - Parceiro de Programação</b>
+</h4>
+<p align="center">
+  Em minha jornada de aprendizado e desenvolvimento, utilizo a inteligência artificial, como o <b>Gemini do Google</b>, para aprimorar minhas habilidades de programação. Ela me auxilia na criação, correção e compreensão de códigos, permitindo-me otimizar tempo e encontrar as melhores soluções para os desafios de programação.
 </p>
 <br>
 
