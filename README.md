@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Olá! Eu sou Fábio Silva!</h1>
-  <h3>`Analista e Desenvolvedor de Sistemas | FullStack`</h3>
+  <h3>Analista e Desenvolvedor de Sistemas | FullStack</h3>
 </div>
 
 <p align="center">
