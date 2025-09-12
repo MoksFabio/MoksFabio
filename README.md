@@ -39,7 +39,7 @@
   <img alt="HTML5" title="HTML5" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img alt="CSS3" title="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="Python" title="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img alt="Python" title="Python" width="45px" src="https://cdn.jsdelivr.com/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img alt="Git" title="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
   <img alt="VS Code" title="VS Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img alt="SQL" title="SQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -47,7 +47,8 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoksFabio&theme=tokyonight&layout=compact&langs_count=1" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MoksFabio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MoksFabio&theme=tokyonight&layout=compact&langs_count=10"/>
 </div>
 
 ---
@@ -60,10 +61,16 @@
   </a>
 </div>
 <br>
-**RH Digital - HRIS Connect**
-> Breve descrição do projeto e seu propósito.
->
-> *Tecnologias:* {Tecnologias usadas}
+<h4 align="center">
+  <b>RH Digital - HRIS Connect</b>
+</h4>
+<p align="center">
+  Breve descrição do projeto e seu propósito.
+</p>
+<p align="center">
+  <b>Tecnologias:</b> {Tecnologias usadas}
+</p>
+<br>
 <br>
 
 <div align="center">
@@ -72,7 +79,19 @@
   </a>
 </div>
 <br>
-Sistema RCB
-> Minha principal conquista no Grande Recife Consórcio de Transporte Metropolitano, este sistema trouxe mais automação e eficiência para os processos internos da Ouvidoria.
->
-> Tecnologias: HTML, CSS, JavaScript, Python
+<h4 align="center">
+  <b>Sistema RCB</b>
+</h4>
+<p align="center">
+  Minha principal conquista no Grande Recife Consórcio de Transporte Metropolitano, este sistema trouxe mais automação e eficiência para os processos internos da Ouvidoria.
+</p>
+<p align="center">
+  <b>Tecnologias:</b> HTML, CSS, JavaScript, Python
+</p>
+<br>
+
+---
+
+<div align="center">
+  <p>Feito com ❤️ por MoksFabio</p>
+</div>
