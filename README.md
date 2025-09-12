@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MoksFabio&style=for-the-badge" alt="Visualizações de Perfil" />
-  <h1>Olá! Eu sou o Fábio Silva 👋</h1>
+  <h1>Olá! Eu sou Fábio Silva!</h1>
   <h3>`Analista e Desenvolvedor de Sistemas | FullStack`</h3>
 </div>
 
