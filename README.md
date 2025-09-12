@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/MoksFabio/MoksFabio/assets/156687440/328d0987-a065-4f7f-a0e2-df1130d22384" width="100" />
-  <h1>Olá! Eu sou o Fábio Silva 👋</h1>
+ <h1>Olá! Eu sou o Fábio Silva 👋</h1>
   <h3>`Analista e Desenvolvedor de Sistemas | FullStack`</h3>
 </div>
 
