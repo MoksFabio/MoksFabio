@@ -4,7 +4,7 @@
 </div>
 
 <p align="center">
-  Bem-vindo(a) ao meu perfil! Me chamo <b>Fábio Silva</b>, tenho 20 anos e sou um profissional em Análise e Desenvolvimento de Sistemas, focado em aprimoramento de habilidades FullStack. Atualmente, estou cursando minha graduação na UniAmérica e aplicando meu conhecimento em desafios práticos.
+  Bem-vindo(a) ao meu perfil! Me chamo <b>Fábio Silva</b>, tenho 21 anos e sou um profissional em Análise e Desenvolvimento de Sistemas, focado em aprimoramento de habilidades FullStack. Atualmente, estou cursando minha graduação na UniAmérica e aplicando meu conhecimento em desafios práticos.
   <br>
   Minha jornada profissional no <b>Grande Recife Consórcio de Transporte Metropolitano</b>, onde atuei como Jovem Aprendiz e, agora, como Estagiário de TI, me proporcionou uma experiência valiosa. Tive a oportunidade de ir além da gestão de informações e desenvolver soluções que geram impacto real na empresa.
   <br>
@@ -39,7 +39,7 @@
   <img alt="CSS3" title="CSS3" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="Python" title="Python" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="VS Code" title="VS Code" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="Django" title="Django" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   <img alt="PostgreSQL" title="PostgreSQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
   <img alt="Gemini" title="Gemini" width="45px" src="https://github.com/MoksFabio/MoksFabio/blob/main/gemini-changed-their-logo-v0-isn75ucqhdbf1-Photoroom.png?raw=true"/>
 </p>
@@ -50,21 +50,23 @@
 ### 💻 Projetos em Destaque
 
 <div align="center">
-  <a href="https://rhdigitalhrisconnect.github.io/Quem-Somos/">
-    <img src="https://github.com/MoksFabio/MoksFabio/blob/main/RH-Digital-Logo.png?raw=true" alt="Banner do Projeto RH Digital" width="200"/>
+  <a href="https://www.yasmimos.com.br/">
+    <img src="https://github.com/MoksFabio/MoksFabio/blob/main/logo.png?raw=true" alt="Banner YasMimos" width="200"/>
   </a>
 </div>
 <br>
 <h4 align="center">
-  <b>RH Digital - HRIS Connect</b>
+  <b>YasMimos - E-commerce de Presentes</b>
 </h4>
 <p align="center">
-  <b>SIMPLIFICANDO PROCESSOS, POTENCIALIZANDO PESSOAS</b><br>A turma 170 ADM de Serviços Administrativos do SENAC, e este é o RH Digital - HRIS Connect: nosso Projeto Integrador focado em simplificar e humanizar os processos de Recursos Humanos através da tecnologia.
+  Plataforma completa de vendas com <b>Checkout Transparente (Mercado Pago)</b>, baixa automática via Pix, sistema de chat em tempo real via <b>WebSockets</b> e painel administrativo para gestão de estoque e pedidos.
 </p>
 <p align="center">
-  <b>Tecnologias:</b> HTML, CSS, JavaScript, Python
+  <b>Tecnologias:</b> Python (Django), JavaScript, WebSockets, SQLite, Mercado Pago API
 </p>
-<br>
+<p align="center">
+  <a href="https://www.yasmimos.com.br/"><b>🌐 Visite o site oficial</b></a>
+</p>
 <br>
 
 <div align="center">
@@ -76,6 +78,23 @@
 </h4>
 <p align="center">
   Minha principal conquista no Grande Recife Consórcio de Transporte Metropolitano, este sistema trouxe mais automação e eficiência para os processos internos do setor da GECO.
+</p>
+<p align="center">
+  <b>Tecnologias:</b> HTML, CSS, JavaScript, Python
+</p>
+<br>
+
+<div align="center">
+  <a href="https://rhdigitalhrisconnect.github.io/Quem-Somos/">
+    <img src="https://github.com/MoksFabio/MoksFabio/blob/main/RH-Digital-Logo.png?raw=true" alt="Banner do Projeto RH Digital" width="200"/>
+  </a>
+</div>
+<br>
+<h4 align="center">
+  <b>RH Digital - HRIS Connect</b>
+</h4>
+<p align="center">
+  <b>SIMPLIFICANDO PROCESSOS, POTENCIALIZANDO PESSOAS</b><br>Projeto focado em simplificar e humanizar os processos de Recursos Humanos através da tecnologia.
 </p>
 <p align="center">
   <b>Tecnologias:</b> HTML, CSS, JavaScript, Python
