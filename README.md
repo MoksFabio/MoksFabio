@@ -56,7 +56,7 @@
 </div>
 <br>
 <h4 align="center">
-  <b>YasMimos - E-commerce de Presentes</b>
+  <b>YasMimos - E-commerce</b>
 </h4>
 <p align="center">
   Plataforma completa de vendas com <b>Checkout Transparente (Mercado Pago)</b>, baixa automática via Pix, sistema de chat em tempo real via <b>WebSockets</b> e painel administrativo para gestão de estoque e pedidos.
