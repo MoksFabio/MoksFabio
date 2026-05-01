@@ -62,7 +62,7 @@
   Plataforma completa de vendas com <b>Checkout Transparente (Mercado Pago)</b>, baixa automática via Pix, sistema de chat em tempo real via <b>WebSockets</b> e painel administrativo para gestão de estoque e pedidos.
 </p>
 <p align="center">
-  <b>Tecnologias:</b> Python (Django), JavaScript, WebSockets, SQLite, Mercado Pago API
+  <b>Tecnologias:</b> Python (Django), JavaScript, WebSockets, PostgreSQL, Mercado Pago API
 </p>
 <p align="center">
   <a href="https://www.yasmimos.com.br/"><b>🌐 Visite o site oficial</b></a>
